@@ -4,7 +4,7 @@
 - Implemented the ability to filter, search and sort.
 
 
-__Also added API end-points:__
+__API end-points:__
 - api/books/
 - api/books/id
 - api/signup/
