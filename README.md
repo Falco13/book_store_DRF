@@ -17,5 +17,5 @@ __Used tools:__
 :heavy_check_mark: Python     
 :heavy_check_mark: Django REST Framework    
 :heavy_check_mark: JWT authentication [Simple JWT]    
-:heavy_check_mark: Django REST framework filter
+:heavy_check_mark: Django REST framework filter     
 :heavy_check_mark: SQLite database    
